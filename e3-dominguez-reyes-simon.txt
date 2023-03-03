@@ -1,0 +1,3 @@
+Escritura de codigo: Visual Studio Code
+Probar código: Live Server Extension
+Depuracion: Visual Studio Code
